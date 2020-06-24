@@ -1,0 +1,44 @@
+.col-lg-8 {
+    background: #e5e5e5;
+}
+.col-lg-4 {
+    width: 33.33333333%;
+    margin-left: -20%;
+}
+
+.mt-2{
+  font-size: 20px;
+}
+
+.col-lg-8 {
+    margin-top: 50px;
+    background: #ffffff;
+    margin-bottom: 18px;
+}
+#content{
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-top: 10px;
+    padding: 0px 10px;
+}
+
+.mb {
+    margin-left: 7px;
+    margin-bottom: 34px;
+}
+.row{
+    align-items: center;
+    justify-content: center;
+}
+.mb{
+  font-size: 20px;
+}
+.h4{
+    font-size: 21px;
+    font-family: inherit;
+    margin-left: 226px;
+    margin-bottom: 30px;
+    background-color: white;
+    padding: 11px 8px;
+    width: 15%;
+}
