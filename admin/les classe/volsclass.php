@@ -42,10 +42,7 @@
             where idVol = '$id1'");
           }
 
-         // --------Delete Function----------
-        //    function user_delete($id) {
-        //    mysqli_query($this->conn,"DELETE from users where iduser = '$id'");
-                   
+         
           
 
  }

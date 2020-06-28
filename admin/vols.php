@@ -44,7 +44,7 @@
             <div class="table-title">
                 <div class="row">
                     <div class="col-sm-6">
-						<h2>Management <b>Admin</b></h2>
+						<h2>Management <b>Vols</b></h2>
 					</div>
 					<div class="col-sm-6">
 						<a href="#addEmployeeModal" class="btn btn-success" data-toggle="modal"><i class="material-icons">&#xE147;</i> <span>Add New Vol</span></a>

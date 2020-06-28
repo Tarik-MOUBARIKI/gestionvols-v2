@@ -46,7 +46,7 @@ session_start();
 
 
 <div class="header">
-  <form action="index.php" method="post">
+  <form action="home.php" method="post">
   <h1> Flyvoyage </h1>
     <p>Ou voulez-vous voyager?</p>
     <div class="font-box">
@@ -98,7 +98,7 @@ session_start();
   </thead>
                 
     <?php 
-            $db = mysqli_connect("localhost","root","","db_gestionVols");
+            $db = mysqli_connect("localhost","root","","newgestionvols");
             if (isset($_POST['submit'])){
                 $depart = $_POST['depart'];
                 $destination = $_POST['destination'];
@@ -106,7 +106,7 @@ session_start();
       
                 if (mysqli_num_rows($query) > 0 ) {
                 while ($row = mysqli_fetch_array($query)){
-                  $id = $row['idVol'];
+                  $id=  $row['idVol'];
                     
                     
      ?>

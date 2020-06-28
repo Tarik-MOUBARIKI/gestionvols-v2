@@ -1,3 +1,7 @@
+.header{
+   
+    background-image: url(../images/B.jpg);
+}
 .col-lg-8 {
     background: #e5e5e5;
 }
@@ -41,4 +45,8 @@
     background-color: white;
     padding: 11px 8px;
     width: 15%;
+}
+.phrase{
+    font-size: 25px;
+    color: rgb(88, 6, 6);
 }
