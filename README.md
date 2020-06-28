@@ -1,5 +1,5 @@
-#How To Run??
-### To run this project you must have
+
+# To run this project you must have
 ```
 installed a virtual server i.e XAMPP on your PC.
  ```
