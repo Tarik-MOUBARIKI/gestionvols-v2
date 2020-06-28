@@ -10,6 +10,7 @@ After Starting Apache and MySQL in XAMPP, follow the following steps
 2nd Step: Copy the main project folder
 
 3rd Step: Paste in xampp/htdocs
+```
 
 Now Connecting Database
 ```
@@ -22,6 +23,7 @@ Now Connecting Database
  7th Step: Click on browse file and select "gvol.sql file which is inside the folder
  
  8th Step: Click on go.
+ ```
 
 After Creating Database,
 ```
