@@ -27,5 +27,5 @@ Now Connecting Database
 
 After Creating Database,
 ```
- 9th Step: Open a browser and go to URL "http://localhost/Part2/view/"
+ 9th Step: Open a browser and go to URL "http://localhost/gestionvols-v2"
  ```
