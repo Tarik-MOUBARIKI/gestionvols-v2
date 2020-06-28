@@ -1,12 +1,10 @@
 #How To Run??
 ### To run this project you must have
 ```
-
-    installed a virtual server i.e XAMPP on your PC.
-    ```
+installed a virtual server i.e XAMPP on your PC.
+ ```
 After Starting Apache and MySQL in XAMPP, follow the following steps
 ```
-
 1st Step: Extract file
 ```
 2nd Step: Copy the main project folder
@@ -15,8 +13,7 @@ After Starting Apache and MySQL in XAMPP, follow the following steps
 ```
 Now Connecting Database
 ```
-
- 4th Step: Open a browser and go to URL "http://localhost/phpmyadmin/"
+4th Step: Open a browser and go to URL "http://localhost/phpmyadmin/"
  ```
  5th Step: Then, click on the databases tab
  ```
@@ -28,5 +25,4 @@ Now Connecting Database
  ```
 After Creating Database,
 ```
-
  9th Step: Open a browser and go to URL "http://localhost/Part2/view/"
