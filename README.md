@@ -3,7 +3,7 @@
 ```
 installed a virtual server  XAMPP on your PC.
  ```
-After Starting Apache and MySQL in XAMPP, follow the following steps
+After Starting Apache and MySQL in XAMPP, follow the  steps
 ```
 1st Step: Extract file
 
